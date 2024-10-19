@@ -38,3 +38,7 @@ Bootstrap: quick css made for us to quickly develop apps.
 
 * Allows faster manipulation of css
 * It can have variables
+* Compile sass code into css as browsers don't know scss: sass variables.scss:variables.css. Then header link on html should be the css.
+* Any time you update the sass file you have to recompile.
+* use this shortcut to avoid recompiling each time: sass --watch variable.scss:variables.css
+* Allows nesting of elements when styling.
