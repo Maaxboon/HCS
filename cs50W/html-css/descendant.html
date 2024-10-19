@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Specificity</title>
+        <style>
+            ul>
+
+            /* greater than sign specifies immediate children
+            just ul li would also work: these are called descendant selectors*/
+            li {
+                color: blue;
+            }
+        </style>
+    </head>
+
+    <body>
+        <ol>
+            <li>List item one</li>
+            <li>List item two</li>
+            <ul>
+                <li>sublist item one</li>
+                <li>sublist item two</li>
+            </ul>
+            <li>list item three</li>
+        </ol>
+    </body>
+
+</html>
