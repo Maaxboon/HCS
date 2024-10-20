@@ -9,3 +9,5 @@ Web Programming with Python and JavaScript
 - Sass
 
 # Git
+
+# Python
