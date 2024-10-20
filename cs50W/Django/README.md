@@ -9,3 +9,7 @@
 - 403: Forbidden: trying to access a page you don't have access to.
 - 404: Not Found.
 - 500: Internal sever error: whoever wrote the server left a bug in it.
+
+\*\* Install Django
+
+- pip3 install Django
