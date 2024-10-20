@@ -1,4 +1,4 @@
-# Django
+# Django: a framework that helps write fully fledged web applications with python.
 
 # HTTP: Hyper Text Transfer Protocol
 
