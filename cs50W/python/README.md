@@ -17,4 +17,6 @@
 
 # Object Oriented Programming
 
+- We think of the world in terms of objects and the ability to perform types of operations.
+
 - Class: a template for a type of object
