@@ -14,3 +14,7 @@
 - Loops
 - Functions
 - Modules: importing for various uses
+
+# Object Oriented Programming
+
+- Class: a template for a type of object
