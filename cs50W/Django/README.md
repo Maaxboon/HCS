@@ -20,3 +20,4 @@
 
 - run python manage.py runserver to see how the app looks.
 - run python manage.py startapp appname (Django can have many apps at the same time)
+- Go to lecture3  settings and add hello to the installed apps to install the app.
