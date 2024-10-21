@@ -16,4 +16,6 @@
 
 \*\* First Command
 
-- django-admin startproject PROJECT_NAME
+- django-admin startproject PROJECT_NAME: creates PROJECT_NAME alaongside some starter files.
+
+- run python manage.py runserver to see how the app looks.
