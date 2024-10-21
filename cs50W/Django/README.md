@@ -13,3 +13,7 @@
 \*\* Install Django
 
 - pip3 install Django
+
+\*\* First Command
+
+- django-admin startproject PROJECT_NAME
