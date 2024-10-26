@@ -7,3 +7,6 @@ def index(request):
 
 def Maaax(request):
     return HttpResponse("Hello, Maaax!")
+
+def Fanice(request):
+    return HttpResponse("Chalnade, Min County?")
