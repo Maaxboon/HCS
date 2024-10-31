@@ -10,3 +10,6 @@ def Maaax(request):
 
 def Fanice(request):
     return HttpResponse("Chalnade, Min County?")
+
+def greet(request, name):
+    return HttpResponse(f"Hello, {name}!")
